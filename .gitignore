@@ -1,1 +1,6 @@
 *.js
+*.iml
+*.xml
+.idea/
+node_modules/
+outputs/
